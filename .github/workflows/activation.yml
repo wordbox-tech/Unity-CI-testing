@@ -4,7 +4,7 @@ on: workflow_dispatch
 
 jobs:
   requestManualActivationFile:
-    name: SC-XZBD-N6CT-CXRA-VHJC-PGVX 🔑
+    name: SC-QY2W-VT8Z-WMZW-RFXF-VYGU 🔑
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
